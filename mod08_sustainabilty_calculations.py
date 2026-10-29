@@ -60,3 +60,6 @@ def compute_total_runtime(jobs_df, max_cores):
         total_time += batch_time
         remaining_jobs = next_remaining
     return total_time
+
+
+
